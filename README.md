@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heydarov Yashar</h1>
-<h3 align="center"I'm from Azerbaijan, and i'm a junior frontend developer. I really enjoy learning languages and frameworks, especially javascript, react.
+<h3 align="center">I'm from Azerbaijan, and i'm a junior frontend developer. I really enjoy learning languages and frameworks, especially javascript, react.
 In general i like programming, coding, learning new things about programming.That's fun.</h3>
 
 - 🌱 I’m currently learning **react**
