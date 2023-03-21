@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yashar
 #### Web developer | junior frontend developer
-I'm from Azerbaijan, and i'm a junior frontend developer. I really enjoy learning languages and frameworks, especially javascript, react.
+I'm from Azerbaijan. I really enjoy learning languages and frameworks, especially javascript, react.
 In general i like programming, coding, learning new things about programming.That's fun.
 
 Skills: REACT / JS / HTML / CSS / PHP
