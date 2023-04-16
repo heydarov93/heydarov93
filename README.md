@@ -3,7 +3,7 @@
 I'm from Azerbaijan. I really enjoy learning languages and frameworks, especially javascript, react.
 In general i like programming, coding, learning new things about programming.That's fun.
 
-Skills: REACT / JS / HTML / CSS / PHP
+Skills: REACT / JS / HTML / CSS / PHP / Mysql Workbench
 
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yashar-heydarov-4b8659261/">LinkedIn</a>
