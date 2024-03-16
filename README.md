@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is Yashar
-#### Web developer | junior frontend developer
-I'm from Azerbaijan. I really enjoy learning languages and frameworks, especially javascript, react.
-In general i like programming, coding, learning new things about programming.That's fun.
+#### Software Developer | Especially Web
 
-Skills: NextJS / REACTjs / JS / Sass / HTML / CSS / PHP / Mysql Workbench
+Skills: Linux / Shell / C / Python / NextJS / REACTjs / JS / Sass / HTML / CSS
 
 - 🌱 I’m currently student at Holberton School
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yashar-heydarov-4b8659261/">LinkedIn</a>
