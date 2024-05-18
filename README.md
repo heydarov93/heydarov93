@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Yashar
-#### Software Developer | Especially Web
+#### Web Developer
 
 Skills: Linux / Shell / C / Python / NextJS / REACTjs / JS / Sass / HTML / CSS
 
