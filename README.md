@@ -1,9 +1,11 @@
 ### Hi there 👋, my name is Yashar
-#### Web Developer
+#### Frontend Web Developer
 
-Skills: Linux / Shell / C / Python / NextJS / REACTjs / JS / Sass / HTML / CSS
+Skills: HTML / CSS / JavaScript / TypeScript / Reactjs / Sass / Tailwind / SQL / MySQL
 
-- 🌱 I’m currently student at Holberton School
+Additional skills (familiar with): C programming language / Foundations of Computer Science / Python / Linux / Shell
+
+- 🌱 I’m currently working as a Frontend web developer at <a href="https://himate.az/" target="_blank">Himate.az</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/yashar-heydarov-4b8659261/">LinkedIn</a>
 
 
